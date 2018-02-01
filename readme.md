@@ -4,7 +4,7 @@
 - 其次，略懂nodeJs和npm、git命令
 - 以下命令均在Git Bash下完成，兼容Linux和Mac
 
-## 技术栈
+## 参考资料
 - [nodeJs中文网](http://nodejs.cn/)
 - [gulpJs中文网](http://www.gulpjs.com.cn/)
 - [sass入门](http://www.w3cplus.com/sassguide/)
