@@ -1,4 +1,4 @@
-## 说在前面的话
+## 概述
 - 首先，gulp是众多构建工具其中的一个
 - 例如，老牌的grunt、崛起的webpack
 - 其次，略懂nodeJs和npm、git命令
